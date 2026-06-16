@@ -125,7 +125,6 @@ http://localhost:8080
 <img width="1901" height="912" alt="Screenshot 2026-06-16 203559" src="https://github.com/user-attachments/assets/9b9af54e-b924-4735-af00-162ea6888b94" />
 <img width="1882" height="913" alt="Screenshot 2026-06-16 203508" src="https://github.com/user-attachments/assets/107aec5d-80ae-4b9d-a0f4-a0a9fc3cdca1" />
 <img width="1893" height="913" alt="Screenshot 2026-06-16 203412" src="https://github.com/user-attachments/assets/f95b6e7e-efeb-4a69-a017-b4436086e7e6" />
-![Uploading Screenshot 2026-06-16 203559.png…]()
 <img width="1901" height="917" alt="Screenshot 2026-06-16 203640" src="https://github.com/user-attachments/assets/f8a3a212-27a5-432c-92e2-5b26f422a1d2" />
 
 🔗 API Testing
